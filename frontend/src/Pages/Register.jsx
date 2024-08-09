@@ -56,8 +56,7 @@ const Register = () => {
         <h2>Sign Up</h2>
         <p>Please Sign Up To Continue</p>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat culpa
-          voluptas expedita itaque ex, totam ad quod error?
+          Our web application serves the best authentication service that keeps user data secured and maitains user privacy according to government guidelines.
         </p>
         <form onSubmit={handleRegistration}>
           <div>
