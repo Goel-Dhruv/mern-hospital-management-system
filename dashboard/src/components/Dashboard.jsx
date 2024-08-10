@@ -64,9 +64,7 @@ const Dashboard = () => {
                 </h5>
               </div>
               <p>
-                Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-                Facilis, nam molestias. Eaque molestiae ipsam commodi neque.
-                Assumenda repellendus necessitatibus itaque.
+              The hospital admin panel is a centralized dashboard allowing administrators to manage patient records, appointments, staff schedules, billing, and inventory. It provides real-time updates, data analytics, and reporting tools to enhance operational efficiency and patient care.
               </p>
             </div>
           </div>
